@@ -1,0 +1,11 @@
+Taruh gambar-gambar berikut di folder ini dengan nama persis:
+
+logo.png        -> logo Kalimaniez (dipakai di navbar, footer, & modal login/daftar)
+gallery1.jpeg   -> contoh hasil pas foto ukuran 4x6
+gallery2.jpeg   -> contoh hasil pas foto ukuran 3x4
+gallery3.jpeg   -> contoh hasil pas foto ukuran 2x3
+about.jpeg      -> foto untuk section "Tentang Kami"
+
+Kalau file belum ada, halaman tetap tampil rapi (logo otomatis
+disembunyikan, foto galeri/tentang otomatis menampilkan kotak
+"Foto belum diunggah" — tidak ada gambar rusak/blank yang jelek).
